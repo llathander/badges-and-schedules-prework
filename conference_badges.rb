@@ -1,10 +1,14 @@
 
-speakers = "Edsger, Ada, Charles, Alan, Grace, Linus, and Matz"
+speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 
 def badge_maker(name)
   return "Hello, my name is #{name}."
 end
 
+def batch_badge_creator(speaker)
+end
+
 
 def assign_rooms(speaker)
+end
