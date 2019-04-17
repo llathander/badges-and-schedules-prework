@@ -1,5 +1,5 @@
 
-
+speakers = 
 
 
 def badge_maker(name)
